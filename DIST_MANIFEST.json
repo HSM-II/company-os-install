@@ -1,8 +1,8 @@
 {
   "schema": "hsm.company_os.dist_manifest.v1",
   "source_repository": "PermutationResearch/HSM-II",
-  "source_commit": "cca20221febb476ab60f1d87e61d51f262066dde",
-  "generated_at": "2026-09-17T01:21:52Z",
+  "source_commit": "a3b8af4a873ca17c22fece93431a12ba3ac43609",
+  "generated_at": "2026-09-17T01:27:26Z",
   "files": {
     "LICENSE": "f91cc02ce0ad86d803fa53154c24b977c99614354bd520bc2ef03b33b4a29dc4",
     "QUICKSTART.md": "269ed81b5648842f6789dd7bcf042adda7a4b16aba65486f932626bce497b996",
