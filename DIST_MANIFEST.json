@@ -1,0 +1,14 @@
+{
+  "schema": "hsm.company_os.dist_manifest.v1",
+  "source_repository": "PermutationResearch/HSM-II",
+  "source_commit": "cca20221febb476ab60f1d87e61d51f262066dde",
+  "generated_at": "2026-09-17T01:21:52Z",
+  "files": {
+    "LICENSE": "f91cc02ce0ad86d803fa53154c24b977c99614354bd520bc2ef03b33b4a29dc4",
+    "QUICKSTART.md": "269ed81b5648842f6789dd7bcf042adda7a4b16aba65486f932626bce497b996",
+    "README.md": "bf3ff2e5456faffcba8fe0e8f8126b1d2258607f8387afb60492a8578f79d23e",
+    "docker-compose.company-os.yml": "3e2952bffeefb168ce07b5479b59fb2a899cda1d9e6378fafc83e028fc90548d",
+    "docker-compose.credential-gateway.yml": "ae0f14c4c62a0e44cea50e9035399fc09d2bd5e8d548f9050e53cffc8c5bb4c2",
+    "install.sh": "4ccea3b23874ba23f5a66e47e576aa8e778d30fd3d585281189e8bcb73e5d417"
+  }
+}
